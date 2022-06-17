@@ -1,0 +1,18 @@
+*{
+    padding:10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+input {
+    border-radius: 15px;
+    border: 0.1px  rgba(0, 0, 0, 0.699);
+    background-color: rgba(169, 251, 188, 0.841);
+    height: 50px;
+    width: 400px;
+    /* font-size: large; */
+}
+
+#btn{
+    border-radius: 5px;
+    border: 0.1px  rgba(0, 0, 0, 0.699);
+}
